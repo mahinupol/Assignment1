@@ -1,19 +1,81 @@
 body {
     font-family: 'Arima', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+.Text-position {
+    padding-top: 120px;
 }
 
 .one {
     text-align: center;
     width: 30%;
     margin-left: 35%;
-    margin-top: 150px;
+    color: white;
+    padding-bottom: 150px;
 }
 
 h1 {
     font-size: 40px;
 }
 
-.button1 {
+p {
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+a {
     text-decoration: none;
-    background-color: tomato;
+    background-color: #02a85c;
+    padding: 15px;
+    color: white;
+    font-weight: 700;
+    border-radius: 30px;
+}
+
+.first-section {
+    background-image: url(./images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.flax-Text {
+    display: flex;
+    font-size: 40px;
+    margin-left: 23%;
+}
+
+.secend-section {
+    text-align: center;
+}
+
+strong {
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(243, 235, 235);
+}
+
+.redborder {
+    border-style: solid;
+    border-color: #02a85c;
+    background-color: rgb(142, 236, 189);
+}
+
+#Paragraph2 {
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    padding-bottom: 20px;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid #02a85c;
+    width: 50%;
+    padding-top: 25px;
+}
+
+#center-from {
+    text-align: center;
 }
