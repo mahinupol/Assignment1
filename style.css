@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arima', cursive;
+}
+
+.one {
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 150px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.button1 {
+    text-decoration: none;
+    background-color: tomato;
+}
