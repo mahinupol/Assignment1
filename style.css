@@ -62,7 +62,7 @@ strong {
     background-color: rgb(142, 236, 189);
 }
 
-#Paragraph2 {
+.Paragraph2 {
     text-align: center;
     width: 30%;
     margin-left: 35%;
@@ -74,8 +74,52 @@ input {
     border-bottom: 2px solid #02a85c;
     width: 50%;
     padding-top: 25px;
+    margin-bottom: 70px;
 }
 
 #center-from {
     text-align: center;
+}
+
+.thard-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.flax-item {
+    display: flex;
+    /* border: 150px; */
+
+
+}
+
+.size p {
+    width: 40%;
+    margin-left: 30%;
+}
+
+#Education {
+    width: 10%;
+}
+
+.green-color {
+    background-color: rgb(177, 226, 228);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.pink-color {
+    background-color: rgb(243, 210, 215);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.yellow-color {
+    background-color: rgb(240, 240, 204);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.flax-item img {
+    padding-top: 50px;
 }
