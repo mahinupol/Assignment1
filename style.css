@@ -4,18 +4,6 @@ body {
     margin: 0;
 }
 
-.Text-position {
-    padding-top: 120px;
-}
-
-.one {
-    text-align: center;
-    width: 30%;
-    margin-left: 35%;
-    color: white;
-    padding-bottom: 150px;
-}
-
 h1 {
     font-size: 40px;
 }
@@ -34,10 +22,48 @@ a {
     border-radius: 20px;
 }
 
+strong {
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(243, 235, 235);
+}
+
+.Text-position {
+    padding-top: 120px;
+}
+
+.one {
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+    color: white;
+    padding-bottom: 150px;
+}
+
+
+
 .first-section {
     background-image: url(./images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+
+.secend-section {
+    text-align: center;
+}
+
+.thard-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fourth-section {
+    display: flex;
+    padding: 150px;
+}
+
+.five-section {
+    text-align: center;
 }
 
 .flax-Text {
@@ -46,15 +72,6 @@ a {
     margin-left: 23%;
 }
 
-.secend-section {
-    text-align: center;
-}
-
-strong {
-    padding: 2%;
-    margin: 1%;
-    background-color: rgb(243, 235, 235);
-}
 
 .redborder {
     border-style: solid;
@@ -81,10 +98,7 @@ strong {
     text-align: center;
 }
 
-.thard-section {
-    text-align: center;
-    margin-top: 100px;
-}
+
 
 .flax-item {
     display: flex;
@@ -121,9 +135,6 @@ strong {
     padding-top: 50px;
 }
 
-.five-section {
-    text-align: center;
-}
 
 .padding-email {
     padding: 40px;
@@ -142,6 +153,23 @@ strong {
     padding: 20px;
 }
 
+.Donation-form {
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 30px;
+    background-color: #ecf7f2;
+    background-size: 20px;
+}
+
+.bigger {
+    padding: 30px;
+}
+
+.button2 {
+    margin-top: 150px;
+}
+
 footer {
     background-color: #18223d;
     margin: 0;
@@ -158,26 +186,4 @@ footer {
 
 .footer-p {
     color: white;
-}
-
-
-.fourth-section {
-    display: flex;
-    padding: 150px;
-}
-
-.Donation-form {
-    margin-left: 10%;
-    margin-right: 10%;
-    box-shadow: 10px 10px 40px gray;
-    padding-left: 30px;
-    background-color: #ecf7f2;
-}
-
-.bigger {
-    padding: 30px;
-}
-
-.button2 {
-    margin-top: 150px;
 }
