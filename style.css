@@ -31,7 +31,7 @@ a {
     padding: 15px;
     color: white;
     font-weight: 700;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 .first-section {
@@ -88,9 +88,6 @@ strong {
 
 .flax-item {
     display: flex;
-    /* border: 150px; */
-
-
 }
 
 .size p {
@@ -161,4 +158,26 @@ footer {
 
 .footer-p {
     color: white;
+}
+
+
+.fourth-section {
+    display: flex;
+    padding: 150px;
+}
+
+.Donation-form {
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 30px;
+    background-color: #ecf7f2;
+}
+
+.bigger {
+    padding: 30px;
+}
+
+.button2 {
+    margin-top: 150px;
 }
